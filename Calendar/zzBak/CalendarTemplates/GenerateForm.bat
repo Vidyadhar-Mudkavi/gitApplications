@@ -1,0 +1,2 @@
+pCanonicalFormGenerator
+command.com
