@@ -11,6 +11,8 @@
    and Nachum Dershowitz, Cambridge University Press, 2001.
    Acc No.: 78299/B9:17 P01/NAL
 
+   Added to GitHub on 2014-10-26
+ 
   *Version: 1.2
 
   *Dependencies:
@@ -84,7 +86,7 @@ int main(int argc, char* argv[])
 #endif
       TestAstroFunctions();
 
-#if 0
+#if 1
    // to mark position in the code:
       positionMarker pm;
 
